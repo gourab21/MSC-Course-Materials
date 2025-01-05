@@ -68,7 +68,7 @@ This repository includes work done using a wide range of tools and technologies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/msc-computer-science.git
+   [git clone https://github.com/your-username/msc-computer-science.git](https://github.com/gourab21/MSC.git)
    ```
 2. Navigate to the relevant folder to explore course materials, assignments, or projects.
 3. Refer to the README file in each subdirectory for specific details.
@@ -81,12 +81,6 @@ This repository is intended for personal reference and learning. Sharing, redist
 
 This repository is a personal archive. However, if you find any errors or have suggestions, feel free to open an issue or submit a pull request.
 
-## Contact
 
-For any queries, you can reach out at: 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
----
 
 **Thank you for visiting my repository!**
