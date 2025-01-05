@@ -68,7 +68,7 @@ This repository includes work done using a wide range of tools and technologies:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/msc-computer-science.git](https://github.com/gourab21/MSC.git)
+   git clone https://github.com/gourab21/MSC.git
    ```
 2. Navigate to the relevant folder to explore course materials, assignments, or projects.
 3. Refer to the README file in each subdirectory for specific details.
