@@ -59,10 +59,10 @@ exams/
 ## Technologies Used
 
 This repository includes work done using a wide range of tools and technologies:
-- **Programming Languages**: Python, Java, C++, etc.
-- **Frameworks**: TensorFlow, PyTorch, Flask, etc.
-- **Tools**: Jupyter Notebook, Git, Docker, etc.
-- **Databases**: MySQL, MongoDB, etc.
+- **Programming Languages**: Python, C++, etc.
+- **Frameworks**: 
+- **Tools**: Jupyter Notebook, Google Colab, etc.
+- **Databases**: 
 
 ## How to Use
 
