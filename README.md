@@ -1,4 +1,4 @@
-# MSc Computer Science - Course Materials and Code Repository
+# MSc Computer Science - Course Materials 
 
 Welcome to my MSc Computer Science repository! This repository contains all the materials, notes, and code developed during my MSc journey. It serves as a comprehensive reference for my coursework, projects, and experiments.
 
