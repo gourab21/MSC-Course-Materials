@@ -1,0 +1,2 @@
+fly(parrot).
+bird(X):-animal(X),fly(X).

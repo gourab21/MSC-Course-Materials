@@ -1,0 +1,17 @@
+
+t(alice, dawn, alice).
+t(eve, carl, eve).
+t(alice, bob, dawn).
+t(carl, carl, alice).
+s(bob, alice).
+s(carl, bob).
+s(dawn, carl).
+s(carl, dawn).
+s(alice, dawn).
+s(eve, carl).
+
+r(X, Y) :- p(X, Y), q(Y, X).
+p(X, Y) :- s(X, bob), s(Y, X).
+q(Y, X) :- s(X, Y).
+q(X, Y) :- t(X, X, Y).
+q(X, Y) :- t(X, X, Y).
